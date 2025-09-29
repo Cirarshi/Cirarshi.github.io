@@ -1,4 +1,4 @@
-# 👋 Welcome to My Portfolio  
+# 👋 Welcome to Utkarsh's Portfolio  
 
 This repository powers my **GitHub Pages site**: [utkarshkapoor.github.io](https://utkarshkapoor.github.io/)  
 
