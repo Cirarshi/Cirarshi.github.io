@@ -1,6 +1,6 @@
 # 👋 Welcome to Utkarsh's Portfolio  
 
-This repository powers my **GitHub Pages site**: [utkarshkapoor.github.io](https://utkarshkapoor.github.io/)  
+This repository powers my **GitHub Pages site**: [Cirarshi.github.io](https://cirarshi.github.io/)  
 
 🌐 I also host my live portfolio here: [utkarshkapoor.netlify.app](https://utkarshkapoor.netlify.app/)  
 
